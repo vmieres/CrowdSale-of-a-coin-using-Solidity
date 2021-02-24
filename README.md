@@ -1,1 +1,3 @@
-# CrowdSale-of-a-coin-with-using-Solidity
+# CrowdSale PupperCoin
+
+![](https://www.financemagnates.com/wp-content/uploads/2017/04/raining-money-.jpg)
