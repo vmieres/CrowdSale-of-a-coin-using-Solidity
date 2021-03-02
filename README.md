@@ -1,6 +1,7 @@
 # CrowdSale PupperCoin
 
-![](https://www.financemagnates.com/wp-content/uploads/2017/04/raining-money-.jpg)
+
+![](https://ethereumico.io/wp-content/uploads/2018/10/crowdsalecontract.png)
 
 In this project, I had to create a crowdsale contract using Solidity for a token called the "PupperCoin". The goal amount for the crowdsale is 300 Ether and will last 24 weeks.
 
