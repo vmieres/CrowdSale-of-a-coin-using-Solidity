@@ -51,4 +51,4 @@ It is important to note that the RefundableCrowdsale constructor is called inste
 9. Under Deployed Contracts, expand the PupperCoinSale contract and enter an address from Ganache as the beneficiary under buyTokens.
 ![](images/buy_tokens.png)
 
-10.Change to desired value and transact.
+10. Change to desired value and transact.
